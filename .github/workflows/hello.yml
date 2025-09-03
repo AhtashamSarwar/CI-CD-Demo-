@@ -15,3 +15,6 @@ jobs:
 
       - name: Print message
         run: echo "🎉 CI/CD pipeline triggered successfully!"
+
+      - name: Another step
+        run: echo "Hello Ahtasham, your CI/CD is working!"
